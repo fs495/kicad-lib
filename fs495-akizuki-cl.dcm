@@ -1,10 +1,14 @@
-EESchema-DOCLIB  Version 2.0  Date: 2015年08月04日 22時51分18秒
+EESchema-DOCLIB  Version 2.0  Date: 2015年08月04日 23時17分24秒
 #
-$CMP RPi_GPIO_Rev1
+$CMP RPI_GPIO_REV+
+D Raspberry (Pi model A+/B+, Pi 2) GPIO Header P1
+$ENDCMP
+#
+$CMP RPI_GPIO_REV1
 D Raspberry Pi (model A/B, Rev 1) GPIO Header P1
 $ENDCMP
 #
-$CMP RPi_GPIO_Rev2
+$CMP RPI_GPIO_REV2
 D Raspberry Pi (model A/B, Rev 2) GPIO Header P1
 $ENDCMP
 #
