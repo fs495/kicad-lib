@@ -1,4 +1,12 @@
-EESchema-DOCLIB  Version 2.0  Date: 2015年08月04日 23時17分24秒
+EESchema-DOCLIB  Version 2.0  Date: 2015年08月06日 01時56分23秒
+#
+$CMP MCP3002
+D Microchip dual 10-bit A/D converter
+$ENDCMP
+#
+$CMP PCF2129AT
+D NXP RTC with integrated quartz crystal
+$ENDCMP
 #
 $CMP RPI_GPIO_REV+
 D Raspberry (Pi model A+/B+, Pi 2) GPIO Header P1
