@@ -1,10 +1,11 @@
-PCBNEW-LibModule-V1  2015年08月03日 22時08分02秒
+PCBNEW-LibModule-V1  2015年08月11日 22時14分38秒
 # encoding utf-8
 Units mm
 $INDEX
 104C-TAA
 AQM1248A-RN
 DM3AT-SF-PEJM5
+ESP-WROOM-02
 JT8P-3.2T
 MUSB-5BF01AS
 STEREO-JACK-AJ-1780
@@ -349,6 +350,147 @@ Ne 0 ""
 Po 3.9 14.5
 $EndPAD
 $EndMODULE DM3AT-SF-PEJM5
+$MODULE ESP-WROOM-02
+Po 0 0 0 15 55C9F522 00000000 ~~
+Li ESP-WROOM-02
+Sc 0
+AR 
+Op 0 0 0
+T0 0 4.4 1 1 0 0.15 N V 21 N "ESP-WROOM-02"
+T1 0 2.1 1 1 0 0.15 N V 21 N "VAL**"
+DS 9 5.8 -9 5.8 0.15 21
+DS 0 0 9 0 0.15 21
+DS 9 0 9 20 0.15 21
+DS 9 20 -9 20 0.15 21
+DS -9 20 -9 0 0.15 21
+DS -9 0 0 0 0.15 21
+$PAD
+Sh "10" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 19.1
+$EndPAD
+$PAD
+Sh "11" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 17.6
+$EndPAD
+$PAD
+Sh "12" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 16.1
+$EndPAD
+$PAD
+Sh "13" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 14.6
+$EndPAD
+$PAD
+Sh "14" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 13.1
+$EndPAD
+$PAD
+Sh "15" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 11.6
+$EndPAD
+$PAD
+Sh "16" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 10.1
+$EndPAD
+$PAD
+Sh "17" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 8.6
+$EndPAD
+$PAD
+Sh "18" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9 7.1
+$EndPAD
+$PAD
+Sh "1" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 7.1
+$EndPAD
+$PAD
+Sh "2" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 8.6
+$EndPAD
+$PAD
+Sh "3" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 10.1
+$EndPAD
+$PAD
+Sh "4" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 11.6
+$EndPAD
+$PAD
+Sh "5" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 13.1
+$EndPAD
+$PAD
+Sh "6" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 14.6
+$EndPAD
+$PAD
+Sh "7" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 16.1
+$EndPAD
+$PAD
+Sh "8" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 17.6
+$EndPAD
+$PAD
+Sh "9" R 1.7 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9 19.1
+$EndPAD
+$EndMODULE ESP-WROOM-02
 $MODULE JT8P-3.2T
 Po 0 0 0 15 55BF67AB 00000000 ~~
 Li JT8P-3.2T

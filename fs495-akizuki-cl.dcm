@@ -1,4 +1,12 @@
-EESchema-DOCLIB  Version 2.0  Date: 2015年08月06日 01時56分23秒
+EESchema-DOCLIB  Version 2.0  Date: 2015年08月11日 22時15分09秒
+#
+$CMP AQM1248A-RN
+D Graphic LCD 128x64 AQM1248A-RN
+$ENDCMP
+#
+$CMP ESP-WROOM-02
+D Wifi module ESP-WROOM-02
+$ENDCMP
 #
 $CMP MCP3002
 D Microchip dual 10-bit A/D converter
